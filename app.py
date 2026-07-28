@@ -481,7 +481,7 @@ with st.sidebar:
         <p>
 
         <b>Model</b><br>
-        YOLO11
+        YOLO11n
 
         <p>
 
@@ -540,7 +540,7 @@ if halaman == "📊  Dashboard":
 
             <div class="hero-description">
                 Sistem deteksi dan klasifikasi sampah
-                menggunakan YOLO11 dengan berbagai
+                menggunakan YOLO11n dengan berbagai
                 skenario pengujian untuk menghasilkan
                 deteksi yang lebih akurat dan andal.
             </div>
@@ -677,7 +677,7 @@ elif halaman == "🎯  Deteksi Sampah":
         <div class="hero-description">
 
             Upload satu atau lebih gambar sampah
-            untuk dianalisis menggunakan model YOLO11.
+            untuk dianalisis menggunakan model YOLO11n.
 
         </div>
 
@@ -691,7 +691,7 @@ elif halaman == "🎯  Deteksi Sampah":
     st.markdown("### ⚙️ Model Deteksi")
 
     st.caption(
-        "Pilih skenario YOLO11 yang ingin digunakan "
+        "Pilih skenario YOLO11n yang ingin digunakan "
         "sebelum melakukan deteksi."
     )
 
@@ -1416,7 +1416,7 @@ elif halaman == "ⓘ  Tentang Aplikasi":
                 <br><br><br>
 
                 Sistem ini menggunakan model
-                <b>YOLO11</b> untuk melakukan proses
+                <b>YOLO11n</b> untuk melakukan proses
                 object detection secara otomatis.
 
             </div>
@@ -1447,7 +1447,7 @@ elif halaman == "ⓘ  Tentang Aplikasi":
             ">
 
                 <b>Model</b><br>
-                YOLO11
+                YOLO11n
 
                 <p>
 
@@ -1488,7 +1488,7 @@ elif halaman == "ⓘ  Tentang Aplikasi":
         proses identifikasi sampah secara otomatis
         menggunakan teknologi computer vision,
         sekaligus membandingkan hasil dari beberapa
-        skenario model YOLO11.
+        skenario model YOLO11n.
 
     </div>
     """)
