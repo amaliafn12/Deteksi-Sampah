@@ -770,7 +770,7 @@ elif halaman == "🎯  Deteksi Sampah":
 
 
         if st.button(
-            "🔍 Mulai Deteksi — {skenario.replace('Skenario ', '')}",
+            f"🔍 Mulai Deteksi — {skenario.replace('Skenario ', '')}",
             use_container_width=True
         ):
 
